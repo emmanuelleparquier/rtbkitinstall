@@ -23,3 +23,9 @@ bootstrap.json
 perf.data
 dox/html
 *.swp
+launch.sh
+logs/
+*.bz2
+rtbkit/appendonly.aof
+rtbkit/dump.rdb
+rtbkit/stdout
